@@ -6,7 +6,9 @@ public class Calcultor {
 
   private static String Policz(int i, int i1) {
 
-    return Integer.toString(i * i1);
+  int o = 2;
+    return Integer.toString(i / i1);
+
   }
 
 }
